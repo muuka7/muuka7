@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @muuka7
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me muuka6@outlook.com
 
